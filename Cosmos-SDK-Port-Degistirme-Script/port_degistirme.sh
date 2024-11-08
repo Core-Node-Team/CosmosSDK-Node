@@ -31,7 +31,7 @@ echo "Proof_Laddr Port(Default-6060) :"
 read PROOF
 echo  "Laddr2 Port(26656):"
 read LADDR2
-echo "Prometheus Port (Defaul-26660 ):"
+echo "Prometheus Port (Default-26660 ):"
 read PROM
 DATA=("."$PROJE)
 echo "App.toml Port 1 (Default-9090):"
